@@ -1,2 +1,2 @@
 # Reduced-orderIBM
-Projection based reduced-order models for the immersed boundary (IB) method. 
+A reduced-order model for FSI problems with the immersed boundary (IB) formulation. 
